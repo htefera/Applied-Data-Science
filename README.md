@@ -52,7 +52,7 @@ Tools and Langauges
 * Demonstrate the use of LASSO regression for feature selection
 <br>
 
- [Week 4]()<br>
+ [Week 4](https://github.com/htefera/Applied-Data-Science/tree/master/Module%204)<br>
  Objectives:-
  
 * Understand decision trees training processes
@@ -67,7 +67,7 @@ Tools and Langauges
 <br>
 
 
- [Week 5]()<br>
+ [Week 5](https://github.com/htefera/Applied-Data-Science/tree/master/Module%205)<br>
  
 * Illustrate how to use hyperparameters for tree-based models and  
 * Describe grid-search as a hyperparameter optimization strategy.
