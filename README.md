@@ -32,7 +32,7 @@ Tools and Langauges
 * Python, DataFrames and the Pandas data structure 
      <br>
 
- [Week 2]()<br>
+ [Week 2](https://github.com/htefera/Applied-Data-Science/tree/master/Module%202)<br>
  
 * Understand K-means clustering and apply K-means clustering to a real world datasets
 * Introduction to sklearn and use the feature of sklearn library to do clustering.
@@ -41,7 +41,7 @@ Tools and Langauges
 
   <br>
 
- [Week 3]()<br>
+ [Week 3](https://github.com/htefera/Applied-Data-Science/tree/master/Module%203)<br>
 
 * Dunderstand feature engineering and apply feature selection techniques on datasets
 * Understand the various methods for handling missing data.
