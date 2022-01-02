@@ -23,7 +23,7 @@ Tools and Langauges
  
  The course is organized as follows
  
- [Week 1]()<br>
+ [Week 1](https://github.com/htefera/Applied-Data-Science/tree/master/Module%201/)<br>
  
 * Introduction to Databricks Unified Data Analysts Platform and Delta lakes
 * Fundamental concepts of Apache Spark and its Spark SQL
